@@ -15,7 +15,7 @@ First of all, clicking "start a project" to begin the trail. <br />
 
 
 Now, we need to create a repository to hold all files of your project. <br />
-![Screen shoot](https://github.com/zelin-qiu/comp3040-assignment2/blob/master/img/createpage.png) <br />
+<div align=center><img width="500" height="500" src="https://github.com/zelin-qiu/comp3040-assignment2/blob/master/img/createpage.png"/></div>
 
 Giving your repository a short and clear name. <br />
 ![Screen shoot](https://github.com/zelin-qiu/comp3040-assignment2/blob/master/img/name.png) <br />
