@@ -41,5 +41,9 @@ Github is a website collaboration community with a variety of mechanisms for eve
 
 4. Now, you have successfully uploaded your resume. <br />
 
+<hr>
+
+### Step 3: Add a theme if you want <br />
+
 
 
