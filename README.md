@@ -39,6 +39,7 @@ Github is a website collaboration community with a variety of mechanisms for eve
 <div align=center><img width="480" height="215" src="https://github.com/zelin-qiu/comp3040-assignment2/blob/master/img/giphy2.gif"/></div> <br />
 
 3. Click **Commit changes** button. <br />
+<div align=center><img width="450" height="50" src="https://github.com/zelin-qiu/comp3040-assignment2/blob/master/img/commit.png"/></div> <br />
 
 4. Now, you have successfully uploaded your resume.
 
