@@ -14,7 +14,7 @@ Github is a website collaboration community with a variety of mechanisms for eve
 <div align=center><img width="450" height="150" src="https://github.com/zelin-qiu/comp3040-assignment2/blob/master/img/startaproject.png"/></div>
 
 
-* Now, we need to create a repository to hold all files of your project. <br />
+* Now, we need to create a repository in this page, using it to hold all files of your project. <br />
 <div align=center><img width="545" height="405" src="https://github.com/zelin-qiu/comp3040-assignment2/blob/master/img/createpage.png"/></div>
 
 * Giving your repository a short and clear name. <br />
