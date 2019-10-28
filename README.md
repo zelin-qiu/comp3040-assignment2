@@ -29,13 +29,14 @@ Github is a website collaboration community with a variety of mechanisms for eve
 * You have your repository now! <br />
 
 <hr>
+
 ### Step 2 <br />
 #### upload your resume
 1. First, go into your repository page and click the **Upload files** button. <br />
-<div align=center><img width="" height="" src=""/></div> <br />
+<div align=center><img width="450" height="350" src="https://github.com/zelin-qiu/comp3040-assignment2/blob/master/img/upload%20file.png"/></div> <br />
 
 2. Drag your resume file to file adding area. <br />
-<div align=center><img width="" height="" src=""/></div> <br />
+<div align=center><img width="450" height="200" src="https://github.com/zelin-qiu/comp3040-assignment2/blob/master/img/giphy2.gif"/></div> <br />
 
 3. Click **Commit changes** button. <br />
 
