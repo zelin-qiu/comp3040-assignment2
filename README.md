@@ -26,3 +26,5 @@ Github is a website collaboration community with a variety of mechanisms for eve
 * Cleck **Create repository**.
 <div align=center><img width="450" height="50" src="https://github.com/zelin-qiu/comp3040-assignment2/blob/master/img/confirm.png"/></div>
 
+* You have your repository now!
+
