@@ -23,8 +23,23 @@ Github is a website collaboration community with a variety of mechanisms for eve
 * Select **Public** and **Initialize this repository with a README**. <br />
 <div align=center><img width="450" height="150" src="https://github.com/zelin-qiu/comp3040-assignment2/blob/master/img/public.png"/></div>
 
-* Cleck **Create repository**.
+* Click **Create repository**.
 <div align=center><img width="450" height="50" src="https://github.com/zelin-qiu/comp3040-assignment2/blob/master/img/confirm.png"/></div>
 
-* You have your repository now!
+* You have your repository now! <br />
+
+<hr>
+### Step 2 <br />
+#### upload your resume
+1. First, go into your repository page and click the **Upload files** button. <br />
+<div align=center><img width="" height="" src=""/></div> <br />
+
+2. Drag your resume file to file adding area. <br />
+<div align=center><img width="" height="" src=""/></div> <br />
+
+3. Click **Commit changes** button. <br />
+
+4. Now, you have successfully uploaded your resume.
+
+
 
