@@ -18,7 +18,7 @@ Github is a website collaboration community with a variety of mechanisms for eve
 <div align=center><img width="545" height="405" src="https://github.com/zelin-qiu/comp3040-assignment2/blob/master/img/createpage.png"/></div>
 
 * Giving your repository a short and clear name. <br />
-<div align=center><img width="425" height="125" src="https://github.com/zelin-qiu/comp3040-assignment2/blob/master/img/name.png"/></div>
+<div align=center><img width="425" height="125" src="https://github.com/zelin-qiu/comp3040-assignment2/blob/master/img/giphy.gif"/></div>
 
 * Select **Public** and **Initialize this repository with a README**. <br />
 <div align=center><img width="450" height="150" src="https://github.com/zelin-qiu/comp3040-assignment2/blob/master/img/public.png"/></div>
