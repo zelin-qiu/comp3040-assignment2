@@ -10,23 +10,23 @@ Github is a website collaboration community with a variety of mechanisms for eve
 
 ### Step 1 <br />
 #### create a new repository <br />
-* First of all, clicking "start a project" to begin the trail. <br />
+1. First of all, clicking "start a project" to begin the trail. <br />
 <img width="450" height="150" src="https://github.com/zelin-qiu/comp3040-assignment2/raw/master/img/startaproject.png"/>
 
 
-* Now, we need to create a repository in this page, using it to hold all files of your project. <br />
+2. Now, we need to create a repository in this page, using it to hold all files of your project. <br />
 <img width="545" height="405" src="https://github.com/zelin-qiu/comp3040-assignment2/raw/master/img/createpage.png"/>
 
-* Giving your repository a short and clear name. <br />
+3. Giving your repository a short and clear name. <br />
 <img width="440" height="125" src="https://github.com/zelin-qiu/comp3040-assignment2/raw/master/img/giphy.gif"/>
 
-* Select **Public** and **Initialize this repository with a README**. <br />
+4. Select **Public** and **Initialize this repository with a README**. <br />
 <img width="450" height="150" src="https://github.com/zelin-qiu/comp3040-assignment2/raw/master/img/public.png"/>
 
-* Click **Create repository**.
+5. Click **Create repository**.
 <img width="450" height="50" src="https://github.com/zelin-qiu/comp3040-assignment2/raw/master/img/confirm.png"/>
 
-* You have your repository now! <br />
+6. You have your repository now! <br />
 
 <hr>
 
