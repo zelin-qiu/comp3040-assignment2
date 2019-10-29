@@ -134,6 +134,6 @@ include:
 
 ## FAQs: <br />
 * Why didn't my Github Pages change after I modified it in my template? <br />
-* It takes a little time to upload, you can try again in five minutes. <br />
+ * It takes a little time to upload, you can try again in five minutes. <br />
 * Can I have more than one Github Pages? <br />
-* Yes, just create another repository. 
+ * Yes, just create another repository. <br />
