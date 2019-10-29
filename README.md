@@ -117,8 +117,13 @@ include:
 
 <hr>
 
-### Authors and Acknowledgment
-* Zelin
-* Swetul
-* Darnell
+### Resources: <br />
+<https://help.github.com/en/categories/working-with-github-pages>
+
+<hr>
+
+### Authors and Acknowledgment <br />
+* Zelin <br />
+* Swetul <br />
+* Darnell <br />
 
