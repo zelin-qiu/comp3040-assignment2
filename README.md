@@ -43,7 +43,21 @@ Github is a website collaboration community with a variety of mechanisms for eve
 
 <hr>
 
-### Step 3: Add a theme if you want <br />
+### Step 3: create your GitHub Pages <br />
+#### When you have uploaded your resume you need a web page to show it. So you need a GitHub Pages to host your resume. <br />
+1. First, go into your repository page and click **settings** button. <br />
+
+2. Scroll down to "GitHub Pages" section. <br />
+
+3. Choose "master branch" in Source. <br />
+
+4. Click **Change theme** button. Using Theme Chooser to select a theme for your resume. <br />
+
+5. Choose your the theme you like, and click **Select theme**. <br />
+
+6. This is your Github Pages link, click it to check if it works. <br />
+
+<hr>
 
 
 
