@@ -1,14 +1,14 @@
-## How to Host Your Resume on Github Pages <br />
-Github is a website collaboration community with a variety of mechanisms for everyone to work with you to contribute to the project. In this readme file, you will learn how to ues Github to host your resume. <br />
+# How to Host Your Resume on Github Pages <br />
+Github is a website collaboration community with a variety of mechanisms for everyone to work with you to contribute to the project.  In this readme file, you will learn how to ues Github to host your resume. <br />
 <hr>
 
-### Prerequisites <br />
-* a resume written in markdown <br />
+## Prerequisites <br />
+* a resume written in markdown (you can use atom to do that) <br />
 * a Github account <br />
 
 <hr>
 
-### Step 1: Create a new repository <br />
+## Step 1: Create a new repository <br />
 1. First of all, clicking "start a project" to begin the trail. <br />
 <div align=center><img width="450" height="150" src="https://github.com/zelin-qiu/comp3040-assignment2/raw/master/img/startaproject.png"/></div> <br />
 
@@ -29,7 +29,7 @@ Github is a website collaboration community with a variety of mechanisms for eve
 
 <hr>
 
-### Step 2:  Upload your resume <br />
+## Step 2:  Upload your resume <br />
 1. First, go into your repository page and click the **Upload files** button. <br />
 <div align=center><img width="480" height="300" src="https://github.com/zelin-qiu/comp3040-assignment2/raw/master/img/upload%20file.png"/></div> <br />
 
@@ -43,8 +43,8 @@ Github is a website collaboration community with a variety of mechanisms for eve
 
 <hr>
 
-### Step 3: Create your GitHub Pages <br />
-#### When you have uploaded your resume you need a web page to show it. So you need a GitHub Pages to host your resume. <br />
+## Step 3: Create your GitHub Pages <br />
+### When you have uploaded your resume you need a web page to show it. So you need a GitHub Pages to host your resume. <br />
 1. First, go into your repository page and click **settings** button. <br />
 <div align=center><img width="450" height="100" src="https://github.com/zelin-qiu/comp3040-assignment2/raw/master/img/settings.png"/></div> <br />
 
@@ -65,8 +65,8 @@ Github is a website collaboration community with a variety of mechanisms for eve
 
 <hr>
 
-### Step 4: Show your resume on your GitHub Pages <br />
-#### GitHub Pages show readme file automatically, so you need to change something to make sure your resume will be shown on Github Pages. <br />
+## Step 4: Show your resume on your GitHub Pages <br />
+### GitHub Pages show readme file automatically, so you need to change something to make sure your resume will be shown on Github Pages. <br />
 1. Go into your repository page, <br />
  * if there is a **_config.yml** file in your file list, click it and add following code into it. <br />
  * if no **_config.yml** file in your file list, then create a new file name **_config.yml** and copy and paste following code into it. <br />
@@ -93,8 +93,8 @@ include:
 
 <hr>
 
-### Step 5: change your theme by forking (optional)<br />
-#### you can change your theme by Theme Chooser (Step3 NO.5) or forking an existing theme. <br />
+## Step 5: change your theme by forking (optional)<br />
+### You can change your theme by Theme Chooser (Step3 NO.5) or forking an existing theme. <br />
 1. Using search bar to find a theme that interests you. For example, I search hack theme here. <br />
 <div align=center><img width="450" height="100" src="https://github.com/zelin-qiu/comp3040-assignment2/raw/master/img/searchtheme.png"/></div> <br />
 
@@ -117,13 +117,13 @@ include:
 
 <hr>
 
-### Resources: <br />
+## Resources: <br />
 * Introduction about Github Pages: <https://help.github.com/en/categories/working-with-github-pages> <br />
 * Introduction about Github Flavored Markdown: <https://github.github.com/gfm/> <br />
 
 <hr>
 
-### Authors and Acknowledgment <br />
+## Authors and Acknowledgment <br />
 * Zelin <br />
 * Swetul <br />
 * Darnell <br />
