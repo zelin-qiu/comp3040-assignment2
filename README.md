@@ -115,7 +115,10 @@ include:
 
 7. You have changed your resume theme now. <br />
 
-Lin
-Swetul
-Darnell group 20
+<hr>
+
+### Authors and Acknowledgment
+* Zelin
+* Swetul
+* Darnell
 
