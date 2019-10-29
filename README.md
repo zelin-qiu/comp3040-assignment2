@@ -43,7 +43,7 @@ Github is a website collaboration community with a variety of mechanisms for eve
 
 <hr>
 
-### Step 3: create your GitHub Pages <br />
+### Step 3: Create your GitHub Pages <br />
 #### When you have uploaded your resume you need a web page to show it. So you need a GitHub Pages to host your resume. <br />
 1. First, go into your repository page and click **settings** button. <br />
 <div align=center><img width="450" height="100" src="https://github.com/zelin-qiu/comp3040-assignment2/raw/master/img/settings.png"/></div> <br />
@@ -65,9 +65,9 @@ Github is a website collaboration community with a variety of mechanisms for eve
 
 <hr>
 
-### Step 4: show your resume on your GitHub Pages <br />
+### Step 4: Show your resume on your GitHub Pages <br />
 #### GitHub Pages show readme file automatically, so you need to change something to make sure your resume will be shown on Github Pages. <br />
-1. go into your repository page, <br />
+1. Go into your repository page, <br />
  * if there is a **_config.yml** file in your file list, click it and add following code into it. <br />
  * if no **_config.yml** file in your file list, then create a new file name **_config.yml** and copy and paste following code into it. <br />
  
