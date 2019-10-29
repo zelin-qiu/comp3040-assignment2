@@ -1,5 +1,5 @@
 # How to Host Your Resume on Github Pages <br />
-Github is a website collaboration community with a variety of mechanisms for everyone to work with you to contribute to the project.  In this readme file, you will learn how to ues Github to host your resume. <br />
+Github is a website collaboration community with a variety of mechanisms for everyone to work with you to contribute to the project. This readme file is written for people who have no experience in Github and Jekyll, but have some knowledgement about Atom and Markdown. In this readme file, you will learn how to ues Github to host your resume with a Jekyll theme. <br />
 <hr>
 
 ## Prerequisites <br />
