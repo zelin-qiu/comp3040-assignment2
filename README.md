@@ -43,7 +43,7 @@ Github is a website collaboration community with a variety of mechanisms for eve
 
 <hr>
 
-## Step 3: Create your GitHub Pages <br />
+## Step 3: Set your GitHub Pages <br />
 ### When you have uploaded your resume you need a web page to show it. So you need a GitHub Pages to host your resume. <br />
 1. First, go into your repository page and click **settings** button. <br />
 <div align=center><img width="450" height="100" src="https://github.com/zelin-qiu/comp3040-assignment2/raw/master/img/settings.png"/></div> <br />
@@ -124,7 +124,16 @@ include:
 <hr>
 
 ## Authors and Acknowledgment <br />
-* Zelin <br />
-* Swetul <br />
-* Darnell <br />
+* Template author: <br />
+  * Zelin <br />
+* Group members: <br />
+  * Swetul <br />
+  * Darnell <br />
 
+<hr>
+
+## FAQs: <br />
+* Why didn't my Github Pages change after I modified it in my template? <br />
+* It takes a little time to upload, you can try again in five minutes. <br />
+* Can I have more than one Github Pages? <br />
+* Yes, just create another repository. 
