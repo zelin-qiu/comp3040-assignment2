@@ -5,17 +5,17 @@
 <hr />
 
 #### 1. EDUCATION <br />
-* ###### University of Manitoba <br />
-Computer Science &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2017 JAN. <br />
+* ##### University of Manitoba <br />
+Computer Science &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2017 JAN. <br />
 <hr />
 
 #### 2. SKILLS & ABILITIES <br />
-* ###### promgramming language: <br />
+* ##### promgramming language: <br />
  * java, c, c++, ruby, processing, html, css, javascript etc. <br />
-* ###### drawing skill: <br />
+* ##### drawing skill: <br />
  * quickly locate the positon and structure of objects in three-dimensional space <br />
  * know the best match of all color <br />
-* ###### other work skills: <br />
+* ##### other work skills: <br />
  *	Strong teamwork and communication skills <br />
  *	Superior organizational and time management skill <br />
  *	Able to learn quickly <br />
