@@ -91,4 +91,27 @@ include:
 
 3. Your GitHub Pages will show your resume when you refresh it. <br />
 
+<hr>
+
+### Step 5: change your theme by forking (optional)<br />
+#### you can cahnge your theme by Theme Chooser (Step3 NO.5) or forking an existing theme. <br />
+1. Using search bar to find a theme that interests you. For example, I search hack theme here. <br />
+<div align=center><img width="450" height="100" src="https://github.com/zelin-qiu/comp3040-assignment2/raw/master/img/searchtheme.png"/></div> <br />
+
+2. Choose the best match one. <br />
+<div align=center><img width="450" height="200" src="https://github.com/zelin-qiu/comp3040-assignment2/raw/master/img/bestmatch.png"/></div> <br />
+
+3. Click **Fork** button at right-top corner. <br />
+<div align=center><img width="450" height="130" src="https://github.com/zelin-qiu/comp3040-assignment2/raw/master/img/forkbutton.png"/></div> <br />
+
+4. Now, you have got a copy of this theme file. Find **_config.yml** in this theme file list, and click it. <br />
+<div align=center><img width="450" height="185" src="https://github.com/zelin-qiu/comp3040-assignment2/raw/master/img/link.png"/></div> <br />
+
+5. Copy the line that starts with "theme". <br />
+<div align=center><img width="450" height="100" src="https://github.com/zelin-qiu/comp3040-assignment2/raw/master/img/line.png"/></div> <br />
+
+6. Go back to your resume repositories, and overwrite the line that starts with "theme" in your **_config.yml** file. Also, click commit changes button when you finished. <br />
+<div align=center><img width="450" height="100" src="https://github.com/zelin-qiu/comp3040-assignment2/raw/master/img/giphy3.gif"/></div> <br />
+
+7. You have changed your resume theme now. <br />
 
