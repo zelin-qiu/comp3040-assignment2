@@ -108,10 +108,10 @@ include:
 <div align=center><img width="450" height="185" src="https://github.com/zelin-qiu/comp3040-assignment2/raw/master/img/link.png"/></div> <br />
 
 5. Copy the line that starts with "theme". <br />
-<div align=center><img width="450" height="100" src="https://github.com/zelin-qiu/comp3040-assignment2/raw/master/img/line.png"/></div> <br />
+<div align=center><img width="500" height="150" src="https://github.com/zelin-qiu/comp3040-assignment2/raw/master/img/line.png"/></div> <br />
 
 6. Go back to your resume repositories, and overwrite the line that starts with "theme" in your **_config.yml** file. Also, click commit changes button when you finished. <br />
-<div align=center><img width="450" height="100" src="https://github.com/zelin-qiu/comp3040-assignment2/raw/master/img/giphy3.gif"/></div> <br />
+<div align=center><img width="500" height="150" src="https://github.com/zelin-qiu/comp3040-assignment2/raw/master/img/giphy3.gif"/></div> <br />
 
 7. You have changed your resume theme now. <br />
 
