@@ -94,7 +94,7 @@ include:
 <hr>
 
 ### Step 5: change your theme by forking (optional)<br />
-#### you can cahnge your theme by Theme Chooser (Step3 NO.5) or forking an existing theme. <br />
+#### you can change your theme by Theme Chooser (Step3 NO.5) or forking an existing theme. <br />
 1. Using search bar to find a theme that interests you. For example, I search hack theme here. <br />
 <div align=center><img width="450" height="100" src="https://github.com/zelin-qiu/comp3040-assignment2/raw/master/img/searchtheme.png"/></div> <br />
 
