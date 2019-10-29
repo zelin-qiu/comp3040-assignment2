@@ -118,7 +118,8 @@ include:
 <hr>
 
 ### Resources: <br />
-<https://help.github.com/en/categories/working-with-github-pages>
+* Introduction about Github Pages: <https://help.github.com/en/categories/working-with-github-pages> <br />
+* Introduction about Github Flavored Markdown: <https://github.github.com/gfm/> <br />
 
 <hr>
 
