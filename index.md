@@ -26,4 +26,4 @@ Computer Science &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&em
 <hr />
 
 #### 3. EXPERIENCE
-* Website maintenance in FANSON  COMPANY &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2018.6-2018.8 <br />
+* Website maintenance in FANSON  COMPANY &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 2018.6-2018.8 <br />
