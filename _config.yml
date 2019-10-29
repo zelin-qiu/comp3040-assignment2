@@ -1,4 +1,5 @@
 theme: jekyll-theme-tactile
+title: Resume for Zelin Qiu
 plugins:
   - jekyll-relative-links
 relative_links:
