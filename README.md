@@ -46,18 +46,49 @@ Github is a website collaboration community with a variety of mechanisms for eve
 ### Step 3: create your GitHub Pages <br />
 #### When you have uploaded your resume you need a web page to show it. So you need a GitHub Pages to host your resume. <br />
 1. First, go into your repository page and click **settings** button. <br />
+<div align=center><img width="450" height="100" src="https://github.com/zelin-qiu/comp3040-assignment2/raw/master/img/settings.png"/></div> <br />
 
 2. Scroll down to "GitHub Pages" section. <br />
+<div align=center><img width="450" height="170" src="https://github.com/zelin-qiu/comp3040-assignment2/raw/master/img/scroll%20down.png"/></div> <br />
 
 3. Choose "master branch" in Source. <br />
+<div align=center><img width="450" height="200" src="https://github.com/zelin-qiu/comp3040-assignment2/raw/master/img/select%20branch.png"/></div> <br />
 
 4. Click **Change theme** button. Using Theme Chooser to select a theme for your resume. <br />
+<div align=center><img width="450" height="60" src="https://github.com/zelin-qiu/comp3040-assignment2/raw/master/img/change%20theme.png"/></div> <br />
 
 5. Choose your the theme you like, and click **Select theme**. <br />
+<div align=center><img width="100" height="30" src="https://github.com/zelin-qiu/comp3040-assignment2/raw/master/img/select%20button.png"/></div> <br />
 
 6. This is your Github Pages link, click it to check if it works. <br />
+<div align=center><img width="450" height="200" src="https://github.com/zelin-qiu/comp3040-assignment2/raw/master/img/link.png"/></div> <br />
 
 <hr>
 
+### Step 4: show your resume on your GitHub Pages <br />
+#### GitHub Pages show readme file automatically, so you need to change something to make sure your resume will be shown on Github Pages. <br />
+1. go into your repository page, <br />
+ * if there is a **_config.yml** file in your file list, click it and add following code into it. <br />
+ * if no **_config.yml** file in your file list, then create a new file name **_config.yml** and copy and paste following code into it. <br />
+ 
+```
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CONTRIBUTING.md
+  - README.md
+  - LICENSE.md
+  - COPYING.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - ISSUE_TEMPLATE.md
+  - PULL_REQUEST_TEMPLATE.md
+```
+2. Rename your resume file to **index.md** <br />
+
+3. Your GitHub Pages will show your resume when you refresh it. <br />
 
 
