@@ -10,11 +10,11 @@ Github is a website collaboration community with a variety of mechanisms for eve
 
 ### Step 1: Create a new repository <br />
 1. First of all, clicking "start a project" to begin the trail. <br />
-<div align=center><img width="450" height="150" src="https://github.com/zelin-qiu/comp3040-assignment2/raw/master/img/startaproject.png"/></div>
+<div align=center><img width="450" height="150" src="https://github.com/zelin-qiu/comp3040-assignment2/raw/master/img/startaproject.png"/></div> <br />
 
 
 2. Now, we need to create a repository in this page, using it to hold all files of your project. <br />
-<img width="545" height="405" src="https://github.com/zelin-qiu/comp3040-assignment2/raw/master/img/createpage.png"/>
+<div align=center><img width="545" height="405" src="https://github.com/zelin-qiu/comp3040-assignment2/raw/master/img/createpage.png"/></div> <br />
 
 3. Giving your repository a short and clear name. <br />
 <div align=center><img width="440" height="125" src="https://github.com/zelin-qiu/comp3040-assignment2/raw/master/img/giphy.gif"/></div> <br />
